@@ -10,8 +10,8 @@ FullscreenVideo ads are full-screen video ads with 15-30 seconds long that cover
   - Create an application: 【Traffic Management]- [Application Management]-[New Application]
     - Reference：[How do I create a new App?](https://www.pangleglobal.com/jp/help/doc/5dd362e23d7897001168e334)
   - Create an ad placement：【Traffic Management】-【Placement Management】-【New Placement】-【Full-screen Video AD】
-Reference：[How do I create an ad placement?](https://www.pangleglobal.com/jp/help/doc/5e62079cfe8738000fd184cf)
-    - Create Full-screen Video ad placement
+    - Reference：[How do I create an ad placement?](https://www.pangleglobal.com/jp/help/doc/5e62079cfe8738000fd184cf)
+      - Create Full-screen Video ad placement
 
 <img src="pics/create_fullscreen.png" alt="drawing" width="300"/>
 ​
