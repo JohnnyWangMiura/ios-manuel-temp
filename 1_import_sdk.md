@@ -1,4 +1,3 @@
-[Outside CN] Pangle iOS SDK Integration Guideline
 # Import Pangle SDK
 
 ## Method One:
@@ -63,6 +62,7 @@ Project needs to find Link Binary With Libraries in `TARGETS` - > `Build Phases`
 - Add the `ImageIO.framework` if the above dependency library is still reporting errors.
 
 Detailed Steps:
+
 <img src="pics/add_permission_2.png" alt="drawing" width="300"/>
 
 
